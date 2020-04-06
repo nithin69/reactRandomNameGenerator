@@ -1,2 +1,0 @@
-# reactRandomNameGenerator
-Created with CodeSandbox
